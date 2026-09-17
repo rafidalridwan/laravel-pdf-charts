@@ -7,8 +7,6 @@ Laravel Application
        ↓
 ridwan/laravel-pdf-charts
        ↓
-Chart API
-       ↓
 Chart Image
        ↓
 Laravel Application
@@ -199,17 +197,6 @@ $image = Chart::make($config)
     ->render();
 ```
 
-### Short URL
-
-```php
-$url = Chart::make($config)->url();
-```
-
-### Long GET URL (no HTTP round-trip)
-
-```php
-$url = Chart::make($config)->toUrl();
-```
 
 ### Base64 / data URI
 
@@ -235,21 +222,6 @@ public function __invoke(Chart $chart)
 }
 ```
 
-## Configuration
-
-Environment variables:
-
-| Variable | Default | Description |
-|---|---|---|
-| `PDF_CHARTS_BASE_URL` | `https://quickchart.io` | Chart API base URL |
-| `PDF_CHARTS_API_KEY` | `null` | Optional API key |
-| `PDF_CHARTS_WIDTH` | `500` | Default width |
-| `PDF_CHARTS_HEIGHT` | `300` | Default height |
-| `PDF_CHARTS_FORMAT` | `png` | Default format |
-| `PDF_CHARTS_BACKGROUND` | `transparent` | Default background |
-| `PDF_CHARTS_DEVICE_PIXEL_RATIO` | `2` | Retina scale |
-| `PDF_CHARTS_CHARTJS_VERSION` | `4` | Chart.js version |
-| `PDF_CHARTS_TIMEOUT` | `30` | HTTP timeout (seconds) |
 
 ## License
 
