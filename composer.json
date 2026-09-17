@@ -1,6 +1,6 @@
 {
     "name": "ridwan/laravel-pdf-charts",
-    "description": "A convenient Laravel wrapper around QuickChart's API for generating chart images.",
+    "description": "A convenient Laravel wrapper for generating chart images.",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -12,8 +12,8 @@
     ],
     "authors": [
         {
-            "name": "Ridwan",
-            "email": "ridwan@example.com"
+            "name": "Rafid Al Ridwan",
+            "email": "rafidalridwan@gmail.com"
         }
     ],
     "require": {
