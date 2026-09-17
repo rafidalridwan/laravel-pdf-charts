@@ -5,7 +5,7 @@ Generate beautiful, server-side chart images and PDFs in Laravel using **Chart.j
 [![Latest Version](https://img.shields.io/packagist/v/ridwan/laravel-pdf-charts.svg?style=flat-square)](https://packagist.org/packages/ridwan/laravel-pdf-charts)
 [![PHP Version](https://img.shields.io/packagist/php-v/ridwan/laravel-pdf-charts.svg?style=flat-square)](https://packagist.org/packages/ridwan/laravel-pdf-charts)
 [![License](https://img.shields.io/packagist/l/ridwan/laravel-pdf-charts.svg?style=flat-square)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/ridwan/laravel-pdf-charts?style=flat-square)](https://github.com/ridwan/laravel-pdf-charts)
+[![GitHub Stars](https://img.shields.io/github/stars/rafidalridwan/laravel-pdf-charts?style=flat-square)](https://github.com/rafidalridwan/laravel-pdf-charts)
 
 ---
 
